@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadurrahman1&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadurrahman1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadurrahman1" alt="sajjadurrahman1" /></a> </p>
+<p></p>
 
 - 🔭 I’m currently working on [Wealth-Navigator](https://github.com/sajjadurrahman1/Wealth-Navigator)
 
