@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sajjadur Rahman</h1>
+<h1 align="center">Hi , I'm Sajjadur Rahman</h1>
 <h3 align="center">Data Analyst | Aspiring Data Engineer in Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadurrahman1&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadurrahman1" /> </p>
 
 <p></p>
 
-- 🔭 I’m currently working on [Wealth-Navigator](https://github.com/sajjadurrahman1/Wealth-Navigator)
+-  I’m currently working on [Wealth-Navigator](https://github.com/sajjadurrahman1/Wealth-Navigator)
 
-- 🌱 I’m currently learning **Python for Data Engineering and Machine Learning**
+-  I’m currently learning **Python for Data Engineering and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sajjadurrahman1](https://github.com/sajjadurrahman1)
+-  All of my projects are available at [https://github.com/sajjadurrahman1](https://github.com/sajjadurrahman1)
 
-- 📝 Visit my portfolio [https://sajjadurrahman1.github.io/Know_ME/](https://sajjadurrahman1.github.io/Know_ME/)
+-  Visit my portfolio [https://sajjadurrahman1.github.io/Know_ME/](https://sajjadurrahman1.github.io/Know_ME/)
 
-- 💬 Ask me about **Data Analysis, Python, and my journey toward Data Engineering**
+-  Ask me about **Data Analysis, Python, and my journey toward Data Engineering**
 
-- 📫 How to reach me **contactrahman386@gmail.com**
+-  How to reach me **contactrahman386@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
