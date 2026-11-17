@@ -5,16 +5,13 @@
 
 <p></p>
 
--  I’m currently working on [Wealth-Navigator](https://github.com/sajjadurrahman1/Wealth-Navigator)
 
 -  I’m currently learning **Python for Data Engineering and Machine Learning**
 
 -  All of my projects are available at [https://github.com/sajjadurrahman1](https://github.com/sajjadurrahman1)
 
 -  Visit my portfolio [https://sajjadurrahman1.github.io/Know_ME/](https://sajjadurrahman1.github.io/Know_ME/)
-
--  Ask me about **Data Analysis, Python, and my journey toward Data Engineering**
-
+ 
 -  How to reach me **contactrahman386@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
